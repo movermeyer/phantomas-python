@@ -1,12 +1,12 @@
 Python module for easy integration with `phantomas <https://github.com/macbre/phantomas>`__ - PhantomJS-based modular web performance metrics collector
 
-.. image:: https://pypip.in/version/phantomas/badge.svg?style=flat
+.. image:: https://img.shields.io/pypi/v/phantomas.svg?style=flat
     :target: https://pypi.python.org/pypi/phantomas/
     :alt: Latest Version
-.. image:: https://pypip.in/download/phantomas/badge.svg?period=week&style=flat
+.. image:: https://img.shields.io/pypi/dw/phantomas.svg?style=flat
     :target: https://pypi.python.org/pypi/phantomas/
     :alt: Latest Version
-.. image:: https://pypip.in/py_versions/phantomas/badge.svg?style=flat
+.. image:: https://img.shields.io/pypi/pyversions/phantomas.svg?style=flat
     :target: https://pypi.python.org/pypi/phantomas/
     :alt: Supported Python versions
 .. image:: https://travis-ci.org/macbre/phantomas-python.svg?branch=master
